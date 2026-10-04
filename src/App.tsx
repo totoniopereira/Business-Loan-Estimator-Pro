@@ -1,0 +1,1 @@
+export default function App(){return <h1>Business Loan Estimator Pro</h1>;}
